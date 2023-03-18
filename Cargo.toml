@@ -1,5 +1,9 @@
 [package]
 name = "factorial"
+authors = ["Johan Philis"]
+description = "A simple factorial calculator"
+repository = "https://github.com/philis-johan/factorial"
+license = "MIT"
 version = "1.0.0"
 edition = "2021"
 
